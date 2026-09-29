@@ -1,0 +1,724 @@
+config,minute,queue
+A: 1 guard,0,0.0
+A: 1 guard,1,0.03333333333333333
+A: 1 guard,2,0.0
+A: 1 guard,3,0.06666666666666667
+A: 1 guard,4,0.0
+A: 1 guard,5,0.13333333333333333
+A: 1 guard,6,0.0
+A: 1 guard,7,0.06666666666666667
+A: 1 guard,8,0.0
+A: 1 guard,9,0.0
+A: 1 guard,10,0.1
+A: 1 guard,11,0.0
+A: 1 guard,12,0.1
+A: 1 guard,13,0.03333333333333333
+A: 1 guard,14,0.16666666666666666
+A: 1 guard,15,0.06666666666666667
+A: 1 guard,16,0.03333333333333333
+A: 1 guard,17,0.06666666666666667
+A: 1 guard,18,0.1
+A: 1 guard,19,0.0
+A: 1 guard,20,0.16666666666666666
+A: 1 guard,21,0.13333333333333333
+A: 1 guard,22,0.0
+A: 1 guard,23,0.06666666666666667
+A: 1 guard,24,0.16666666666666666
+A: 1 guard,25,0.03333333333333333
+A: 1 guard,26,0.03333333333333333
+A: 1 guard,27,0.03333333333333333
+A: 1 guard,28,0.23333333333333334
+A: 1 guard,29,0.3
+A: 1 guard,30,0.13333333333333333
+A: 1 guard,31,0.1
+A: 1 guard,32,0.13333333333333333
+A: 1 guard,33,0.0
+A: 1 guard,34,0.1
+A: 1 guard,35,0.0
+A: 1 guard,36,0.03333333333333333
+A: 1 guard,37,0.0
+A: 1 guard,38,0.0
+A: 1 guard,39,0.06666666666666667
+A: 1 guard,40,0.03333333333333333
+A: 1 guard,41,0.06666666666666667
+A: 1 guard,42,0.13333333333333333
+A: 1 guard,43,0.16666666666666666
+A: 1 guard,44,0.2
+A: 1 guard,45,0.0
+A: 1 guard,46,0.1
+A: 1 guard,47,0.03333333333333333
+A: 1 guard,48,0.0
+A: 1 guard,49,0.03333333333333333
+A: 1 guard,50,0.03333333333333333
+A: 1 guard,51,0.06666666666666667
+A: 1 guard,52,0.13333333333333333
+A: 1 guard,53,0.06666666666666667
+A: 1 guard,54,0.0
+A: 1 guard,55,0.03333333333333333
+A: 1 guard,56,0.03333333333333333
+A: 1 guard,57,0.3333333333333333
+A: 1 guard,58,0.16666666666666666
+A: 1 guard,59,0.03333333333333333
+A: 1 guard,60,0.06666666666666667
+A: 1 guard,61,0.1
+A: 1 guard,62,0.06666666666666667
+A: 1 guard,63,0.0
+A: 1 guard,64,0.1
+A: 1 guard,65,0.03333333333333333
+A: 1 guard,66,0.06666666666666667
+A: 1 guard,67,0.03333333333333333
+A: 1 guard,68,0.13333333333333333
+A: 1 guard,69,0.03333333333333333
+A: 1 guard,70,0.0
+A: 1 guard,71,0.1
+A: 1 guard,72,0.1
+A: 1 guard,73,0.0
+A: 1 guard,74,0.03333333333333333
+A: 1 guard,75,0.03333333333333333
+A: 1 guard,76,0.03333333333333333
+A: 1 guard,77,0.0
+A: 1 guard,78,0.0
+A: 1 guard,79,0.0
+A: 1 guard,80,0.0
+A: 1 guard,81,0.06666666666666667
+A: 1 guard,82,0.03333333333333333
+A: 1 guard,83,0.03333333333333333
+A: 1 guard,84,0.0
+A: 1 guard,85,0.0
+A: 1 guard,86,0.06666666666666667
+A: 1 guard,87,0.0
+A: 1 guard,88,0.03333333333333333
+A: 1 guard,89,0.0
+A: 1 guard,90,0.0
+A: 1 guard,91,0.0
+A: 1 guard,92,0.06666666666666667
+A: 1 guard,93,0.03333333333333333
+A: 1 guard,94,0.06666666666666667
+A: 1 guard,95,0.06666666666666667
+A: 1 guard,96,0.0
+A: 1 guard,97,0.06666666666666667
+A: 1 guard,98,0.03333333333333333
+A: 1 guard,99,0.0
+A: 1 guard,100,0.03333333333333333
+A: 1 guard,101,0.0
+A: 1 guard,102,0.06666666666666667
+A: 1 guard,103,0.0
+A: 1 guard,104,0.06666666666666667
+A: 1 guard,105,0.03333333333333333
+A: 1 guard,106,0.03333333333333333
+A: 1 guard,107,0.03333333333333333
+A: 1 guard,108,0.13333333333333333
+A: 1 guard,109,0.06666666666666667
+A: 1 guard,110,0.06666666666666667
+A: 1 guard,111,0.06666666666666667
+A: 1 guard,112,0.03333333333333333
+A: 1 guard,113,0.06666666666666667
+A: 1 guard,114,0.03333333333333333
+A: 1 guard,115,0.0
+A: 1 guard,116,0.03333333333333333
+A: 1 guard,117,0.06666666666666667
+A: 1 guard,118,0.06666666666666667
+A: 1 guard,119,0.06666666666666667
+A: 1 guard,120,0.1
+A: 1 guard,121,0.03333333333333333
+A: 1 guard,122,0.03333333333333333
+A: 1 guard,123,0.0
+A: 1 guard,124,0.1
+A: 1 guard,125,0.1
+A: 1 guard,126,0.03333333333333333
+A: 1 guard,127,0.03333333333333333
+A: 1 guard,128,0.0
+A: 1 guard,129,0.06666666666666667
+A: 1 guard,130,0.03333333333333333
+A: 1 guard,131,0.0
+A: 1 guard,132,0.0
+A: 1 guard,133,0.0
+A: 1 guard,134,0.06666666666666667
+A: 1 guard,135,0.16666666666666666
+A: 1 guard,136,0.06666666666666667
+A: 1 guard,137,0.0
+A: 1 guard,138,0.0
+A: 1 guard,139,0.0
+A: 1 guard,140,0.03333333333333333
+A: 1 guard,141,0.0
+A: 1 guard,142,0.03333333333333333
+A: 1 guard,143,0.03333333333333333
+A: 1 guard,144,0.0
+A: 1 guard,145,0.0
+A: 1 guard,146,0.0
+A: 1 guard,147,0.03333333333333333
+A: 1 guard,148,0.03333333333333333
+A: 1 guard,149,0.0
+A: 1 guard,150,0.0
+A: 1 guard,151,0.06666666666666667
+A: 1 guard,152,0.06666666666666667
+A: 1 guard,153,0.0
+A: 1 guard,154,0.03333333333333333
+A: 1 guard,155,0.0
+A: 1 guard,156,0.0
+A: 1 guard,157,0.0
+A: 1 guard,158,0.0
+A: 1 guard,159,0.03333333333333333
+A: 1 guard,160,0.03333333333333333
+A: 1 guard,161,0.06666666666666667
+A: 1 guard,162,0.0
+A: 1 guard,163,0.03333333333333333
+A: 1 guard,164,0.0
+A: 1 guard,165,0.06666666666666667
+A: 1 guard,166,0.0
+A: 1 guard,167,0.03333333333333333
+A: 1 guard,168,0.0
+A: 1 guard,169,0.0
+A: 1 guard,170,0.03333333333333333
+A: 1 guard,171,0.0
+A: 1 guard,172,0.0
+A: 1 guard,173,0.0
+A: 1 guard,174,0.0
+A: 1 guard,175,0.0
+A: 1 guard,176,0.0
+A: 1 guard,177,0.06666666666666667
+A: 1 guard,178,0.0
+A: 1 guard,179,0.0
+A: 1 guard,180,0.0
+A: 1 guard,181,0.0
+A: 1 guard,182,0.0
+A: 1 guard,183,0.0
+A: 1 guard,184,0.0
+A: 1 guard,185,0.0
+A: 1 guard,186,0.0
+A: 1 guard,187,0.0
+A: 1 guard,188,0.0
+A: 1 guard,189,0.0
+A: 1 guard,190,0.0
+A: 1 guard,191,0.0
+A: 1 guard,192,0.03333333333333333
+A: 1 guard,193,0.0
+A: 1 guard,194,0.0
+A: 1 guard,195,0.0
+A: 1 guard,196,0.03333333333333333
+A: 1 guard,197,0.0
+A: 1 guard,198,0.06666666666666667
+A: 1 guard,199,0.0
+A: 1 guard,200,0.0
+A: 1 guard,201,0.0
+A: 1 guard,202,0.0
+A: 1 guard,203,0.0
+A: 1 guard,204,0.0
+A: 1 guard,205,0.0
+A: 1 guard,206,0.03333333333333333
+A: 1 guard,207,0.0
+A: 1 guard,208,0.0
+A: 1 guard,209,0.0
+A: 1 guard,210,0.0
+A: 1 guard,211,0.03333333333333333
+A: 1 guard,212,0.0
+A: 1 guard,213,0.03333333333333333
+A: 1 guard,214,0.0
+A: 1 guard,215,0.03333333333333333
+A: 1 guard,216,0.0
+A: 1 guard,217,0.0
+A: 1 guard,218,0.06666666666666667
+A: 1 guard,219,0.0
+A: 1 guard,220,0.0
+A: 1 guard,221,0.0
+A: 1 guard,222,0.0
+A: 1 guard,223,0.0
+A: 1 guard,224,0.0
+A: 1 guard,225,0.0
+A: 1 guard,226,0.0
+A: 1 guard,227,0.0
+A: 1 guard,228,0.0
+A: 1 guard,229,0.0
+A: 1 guard,230,0.03333333333333333
+A: 1 guard,231,0.03333333333333333
+A: 1 guard,232,0.0
+A: 1 guard,233,0.0
+A: 1 guard,234,0.0
+A: 1 guard,235,0.0
+A: 1 guard,236,0.0
+A: 1 guard,237,0.0
+A: 1 guard,238,0.0
+A: 1 guard,239,0.0
+A: 1 guard,240,0.0
+B: 2 guards 7-9 AM,0,0.0
+B: 2 guards 7-9 AM,1,0.0
+B: 2 guards 7-9 AM,2,0.0
+B: 2 guards 7-9 AM,3,0.0
+B: 2 guards 7-9 AM,4,0.0
+B: 2 guards 7-9 AM,5,0.0
+B: 2 guards 7-9 AM,6,0.0
+B: 2 guards 7-9 AM,7,0.03333333333333333
+B: 2 guards 7-9 AM,8,0.0
+B: 2 guards 7-9 AM,9,0.0
+B: 2 guards 7-9 AM,10,0.0
+B: 2 guards 7-9 AM,11,0.0
+B: 2 guards 7-9 AM,12,0.0
+B: 2 guards 7-9 AM,13,0.0
+B: 2 guards 7-9 AM,14,0.03333333333333333
+B: 2 guards 7-9 AM,15,0.0
+B: 2 guards 7-9 AM,16,0.0
+B: 2 guards 7-9 AM,17,0.03333333333333333
+B: 2 guards 7-9 AM,18,0.0
+B: 2 guards 7-9 AM,19,0.0
+B: 2 guards 7-9 AM,20,0.0
+B: 2 guards 7-9 AM,21,0.0
+B: 2 guards 7-9 AM,22,0.0
+B: 2 guards 7-9 AM,23,0.0
+B: 2 guards 7-9 AM,24,0.03333333333333333
+B: 2 guards 7-9 AM,25,0.0
+B: 2 guards 7-9 AM,26,0.0
+B: 2 guards 7-9 AM,27,0.0
+B: 2 guards 7-9 AM,28,0.1
+B: 2 guards 7-9 AM,29,0.0
+B: 2 guards 7-9 AM,30,0.0
+B: 2 guards 7-9 AM,31,0.0
+B: 2 guards 7-9 AM,32,0.0
+B: 2 guards 7-9 AM,33,0.0
+B: 2 guards 7-9 AM,34,0.0
+B: 2 guards 7-9 AM,35,0.0
+B: 2 guards 7-9 AM,36,0.0
+B: 2 guards 7-9 AM,37,0.0
+B: 2 guards 7-9 AM,38,0.0
+B: 2 guards 7-9 AM,39,0.0
+B: 2 guards 7-9 AM,40,0.0
+B: 2 guards 7-9 AM,41,0.0
+B: 2 guards 7-9 AM,42,0.0
+B: 2 guards 7-9 AM,43,0.06666666666666667
+B: 2 guards 7-9 AM,44,0.0
+B: 2 guards 7-9 AM,45,0.0
+B: 2 guards 7-9 AM,46,0.0
+B: 2 guards 7-9 AM,47,0.0
+B: 2 guards 7-9 AM,48,0.0
+B: 2 guards 7-9 AM,49,0.0
+B: 2 guards 7-9 AM,50,0.0
+B: 2 guards 7-9 AM,51,0.0
+B: 2 guards 7-9 AM,52,0.0
+B: 2 guards 7-9 AM,53,0.0
+B: 2 guards 7-9 AM,54,0.0
+B: 2 guards 7-9 AM,55,0.0
+B: 2 guards 7-9 AM,56,0.0
+B: 2 guards 7-9 AM,57,0.0
+B: 2 guards 7-9 AM,58,0.0
+B: 2 guards 7-9 AM,59,0.0
+B: 2 guards 7-9 AM,60,0.0
+B: 2 guards 7-9 AM,61,0.0
+B: 2 guards 7-9 AM,62,0.0
+B: 2 guards 7-9 AM,63,0.0
+B: 2 guards 7-9 AM,64,0.0
+B: 2 guards 7-9 AM,65,0.0
+B: 2 guards 7-9 AM,66,0.0
+B: 2 guards 7-9 AM,67,0.0
+B: 2 guards 7-9 AM,68,0.0
+B: 2 guards 7-9 AM,69,0.0
+B: 2 guards 7-9 AM,70,0.0
+B: 2 guards 7-9 AM,71,0.0
+B: 2 guards 7-9 AM,72,0.0
+B: 2 guards 7-9 AM,73,0.0
+B: 2 guards 7-9 AM,74,0.0
+B: 2 guards 7-9 AM,75,0.0
+B: 2 guards 7-9 AM,76,0.0
+B: 2 guards 7-9 AM,77,0.0
+B: 2 guards 7-9 AM,78,0.0
+B: 2 guards 7-9 AM,79,0.0
+B: 2 guards 7-9 AM,80,0.0
+B: 2 guards 7-9 AM,81,0.0
+B: 2 guards 7-9 AM,82,0.0
+B: 2 guards 7-9 AM,83,0.0
+B: 2 guards 7-9 AM,84,0.0
+B: 2 guards 7-9 AM,85,0.0
+B: 2 guards 7-9 AM,86,0.0
+B: 2 guards 7-9 AM,87,0.0
+B: 2 guards 7-9 AM,88,0.0
+B: 2 guards 7-9 AM,89,0.0
+B: 2 guards 7-9 AM,90,0.0
+B: 2 guards 7-9 AM,91,0.0
+B: 2 guards 7-9 AM,92,0.0
+B: 2 guards 7-9 AM,93,0.0
+B: 2 guards 7-9 AM,94,0.0
+B: 2 guards 7-9 AM,95,0.0
+B: 2 guards 7-9 AM,96,0.0
+B: 2 guards 7-9 AM,97,0.0
+B: 2 guards 7-9 AM,98,0.0
+B: 2 guards 7-9 AM,99,0.0
+B: 2 guards 7-9 AM,100,0.0
+B: 2 guards 7-9 AM,101,0.0
+B: 2 guards 7-9 AM,102,0.0
+B: 2 guards 7-9 AM,103,0.0
+B: 2 guards 7-9 AM,104,0.0
+B: 2 guards 7-9 AM,105,0.0
+B: 2 guards 7-9 AM,106,0.0
+B: 2 guards 7-9 AM,107,0.0
+B: 2 guards 7-9 AM,108,0.0
+B: 2 guards 7-9 AM,109,0.0
+B: 2 guards 7-9 AM,110,0.0
+B: 2 guards 7-9 AM,111,0.0
+B: 2 guards 7-9 AM,112,0.0
+B: 2 guards 7-9 AM,113,0.0
+B: 2 guards 7-9 AM,114,0.0
+B: 2 guards 7-9 AM,115,0.0
+B: 2 guards 7-9 AM,116,0.0
+B: 2 guards 7-9 AM,117,0.0
+B: 2 guards 7-9 AM,118,0.0
+B: 2 guards 7-9 AM,119,0.0
+B: 2 guards 7-9 AM,120,0.0
+B: 2 guards 7-9 AM,121,0.03333333333333333
+B: 2 guards 7-9 AM,122,0.03333333333333333
+B: 2 guards 7-9 AM,123,0.0
+B: 2 guards 7-9 AM,124,0.1
+B: 2 guards 7-9 AM,125,0.1
+B: 2 guards 7-9 AM,126,0.03333333333333333
+B: 2 guards 7-9 AM,127,0.03333333333333333
+B: 2 guards 7-9 AM,128,0.0
+B: 2 guards 7-9 AM,129,0.06666666666666667
+B: 2 guards 7-9 AM,130,0.03333333333333333
+B: 2 guards 7-9 AM,131,0.0
+B: 2 guards 7-9 AM,132,0.0
+B: 2 guards 7-9 AM,133,0.0
+B: 2 guards 7-9 AM,134,0.06666666666666667
+B: 2 guards 7-9 AM,135,0.16666666666666666
+B: 2 guards 7-9 AM,136,0.06666666666666667
+B: 2 guards 7-9 AM,137,0.0
+B: 2 guards 7-9 AM,138,0.0
+B: 2 guards 7-9 AM,139,0.0
+B: 2 guards 7-9 AM,140,0.03333333333333333
+B: 2 guards 7-9 AM,141,0.0
+B: 2 guards 7-9 AM,142,0.03333333333333333
+B: 2 guards 7-9 AM,143,0.03333333333333333
+B: 2 guards 7-9 AM,144,0.0
+B: 2 guards 7-9 AM,145,0.0
+B: 2 guards 7-9 AM,146,0.0
+B: 2 guards 7-9 AM,147,0.03333333333333333
+B: 2 guards 7-9 AM,148,0.03333333333333333
+B: 2 guards 7-9 AM,149,0.0
+B: 2 guards 7-9 AM,150,0.0
+B: 2 guards 7-9 AM,151,0.06666666666666667
+B: 2 guards 7-9 AM,152,0.06666666666666667
+B: 2 guards 7-9 AM,153,0.0
+B: 2 guards 7-9 AM,154,0.03333333333333333
+B: 2 guards 7-9 AM,155,0.0
+B: 2 guards 7-9 AM,156,0.0
+B: 2 guards 7-9 AM,157,0.0
+B: 2 guards 7-9 AM,158,0.0
+B: 2 guards 7-9 AM,159,0.03333333333333333
+B: 2 guards 7-9 AM,160,0.03333333333333333
+B: 2 guards 7-9 AM,161,0.06666666666666667
+B: 2 guards 7-9 AM,162,0.0
+B: 2 guards 7-9 AM,163,0.03333333333333333
+B: 2 guards 7-9 AM,164,0.0
+B: 2 guards 7-9 AM,165,0.06666666666666667
+B: 2 guards 7-9 AM,166,0.0
+B: 2 guards 7-9 AM,167,0.03333333333333333
+B: 2 guards 7-9 AM,168,0.0
+B: 2 guards 7-9 AM,169,0.0
+B: 2 guards 7-9 AM,170,0.03333333333333333
+B: 2 guards 7-9 AM,171,0.0
+B: 2 guards 7-9 AM,172,0.0
+B: 2 guards 7-9 AM,173,0.0
+B: 2 guards 7-9 AM,174,0.0
+B: 2 guards 7-9 AM,175,0.0
+B: 2 guards 7-9 AM,176,0.0
+B: 2 guards 7-9 AM,177,0.06666666666666667
+B: 2 guards 7-9 AM,178,0.0
+B: 2 guards 7-9 AM,179,0.0
+B: 2 guards 7-9 AM,180,0.0
+B: 2 guards 7-9 AM,181,0.0
+B: 2 guards 7-9 AM,182,0.0
+B: 2 guards 7-9 AM,183,0.0
+B: 2 guards 7-9 AM,184,0.0
+B: 2 guards 7-9 AM,185,0.0
+B: 2 guards 7-9 AM,186,0.0
+B: 2 guards 7-9 AM,187,0.0
+B: 2 guards 7-9 AM,188,0.0
+B: 2 guards 7-9 AM,189,0.0
+B: 2 guards 7-9 AM,190,0.0
+B: 2 guards 7-9 AM,191,0.0
+B: 2 guards 7-9 AM,192,0.03333333333333333
+B: 2 guards 7-9 AM,193,0.0
+B: 2 guards 7-9 AM,194,0.0
+B: 2 guards 7-9 AM,195,0.0
+B: 2 guards 7-9 AM,196,0.03333333333333333
+B: 2 guards 7-9 AM,197,0.0
+B: 2 guards 7-9 AM,198,0.06666666666666667
+B: 2 guards 7-9 AM,199,0.0
+B: 2 guards 7-9 AM,200,0.0
+B: 2 guards 7-9 AM,201,0.0
+B: 2 guards 7-9 AM,202,0.0
+B: 2 guards 7-9 AM,203,0.0
+B: 2 guards 7-9 AM,204,0.0
+B: 2 guards 7-9 AM,205,0.0
+B: 2 guards 7-9 AM,206,0.03333333333333333
+B: 2 guards 7-9 AM,207,0.0
+B: 2 guards 7-9 AM,208,0.0
+B: 2 guards 7-9 AM,209,0.0
+B: 2 guards 7-9 AM,210,0.0
+B: 2 guards 7-9 AM,211,0.03333333333333333
+B: 2 guards 7-9 AM,212,0.0
+B: 2 guards 7-9 AM,213,0.03333333333333333
+B: 2 guards 7-9 AM,214,0.0
+B: 2 guards 7-9 AM,215,0.03333333333333333
+B: 2 guards 7-9 AM,216,0.0
+B: 2 guards 7-9 AM,217,0.0
+B: 2 guards 7-9 AM,218,0.06666666666666667
+B: 2 guards 7-9 AM,219,0.0
+B: 2 guards 7-9 AM,220,0.0
+B: 2 guards 7-9 AM,221,0.0
+B: 2 guards 7-9 AM,222,0.0
+B: 2 guards 7-9 AM,223,0.0
+B: 2 guards 7-9 AM,224,0.0
+B: 2 guards 7-9 AM,225,0.0
+B: 2 guards 7-9 AM,226,0.0
+B: 2 guards 7-9 AM,227,0.0
+B: 2 guards 7-9 AM,228,0.0
+B: 2 guards 7-9 AM,229,0.0
+B: 2 guards 7-9 AM,230,0.03333333333333333
+B: 2 guards 7-9 AM,231,0.03333333333333333
+B: 2 guards 7-9 AM,232,0.0
+B: 2 guards 7-9 AM,233,0.0
+B: 2 guards 7-9 AM,234,0.0
+B: 2 guards 7-9 AM,235,0.0
+B: 2 guards 7-9 AM,236,0.0
+B: 2 guards 7-9 AM,237,0.0
+B: 2 guards 7-9 AM,238,0.0
+B: 2 guards 7-9 AM,239,0.0
+B: 2 guards 7-9 AM,240,0.0
+C: 2 guards 7-10 AM,0,0.0
+C: 2 guards 7-10 AM,1,0.0
+C: 2 guards 7-10 AM,2,0.0
+C: 2 guards 7-10 AM,3,0.0
+C: 2 guards 7-10 AM,4,0.0
+C: 2 guards 7-10 AM,5,0.0
+C: 2 guards 7-10 AM,6,0.0
+C: 2 guards 7-10 AM,7,0.03333333333333333
+C: 2 guards 7-10 AM,8,0.0
+C: 2 guards 7-10 AM,9,0.0
+C: 2 guards 7-10 AM,10,0.0
+C: 2 guards 7-10 AM,11,0.0
+C: 2 guards 7-10 AM,12,0.0
+C: 2 guards 7-10 AM,13,0.0
+C: 2 guards 7-10 AM,14,0.03333333333333333
+C: 2 guards 7-10 AM,15,0.0
+C: 2 guards 7-10 AM,16,0.0
+C: 2 guards 7-10 AM,17,0.03333333333333333
+C: 2 guards 7-10 AM,18,0.0
+C: 2 guards 7-10 AM,19,0.0
+C: 2 guards 7-10 AM,20,0.0
+C: 2 guards 7-10 AM,21,0.0
+C: 2 guards 7-10 AM,22,0.0
+C: 2 guards 7-10 AM,23,0.0
+C: 2 guards 7-10 AM,24,0.03333333333333333
+C: 2 guards 7-10 AM,25,0.0
+C: 2 guards 7-10 AM,26,0.0
+C: 2 guards 7-10 AM,27,0.0
+C: 2 guards 7-10 AM,28,0.1
+C: 2 guards 7-10 AM,29,0.0
+C: 2 guards 7-10 AM,30,0.0
+C: 2 guards 7-10 AM,31,0.0
+C: 2 guards 7-10 AM,32,0.0
+C: 2 guards 7-10 AM,33,0.0
+C: 2 guards 7-10 AM,34,0.0
+C: 2 guards 7-10 AM,35,0.0
+C: 2 guards 7-10 AM,36,0.0
+C: 2 guards 7-10 AM,37,0.0
+C: 2 guards 7-10 AM,38,0.0
+C: 2 guards 7-10 AM,39,0.0
+C: 2 guards 7-10 AM,40,0.0
+C: 2 guards 7-10 AM,41,0.0
+C: 2 guards 7-10 AM,42,0.0
+C: 2 guards 7-10 AM,43,0.06666666666666667
+C: 2 guards 7-10 AM,44,0.0
+C: 2 guards 7-10 AM,45,0.0
+C: 2 guards 7-10 AM,46,0.0
+C: 2 guards 7-10 AM,47,0.0
+C: 2 guards 7-10 AM,48,0.0
+C: 2 guards 7-10 AM,49,0.0
+C: 2 guards 7-10 AM,50,0.0
+C: 2 guards 7-10 AM,51,0.0
+C: 2 guards 7-10 AM,52,0.0
+C: 2 guards 7-10 AM,53,0.0
+C: 2 guards 7-10 AM,54,0.0
+C: 2 guards 7-10 AM,55,0.0
+C: 2 guards 7-10 AM,56,0.0
+C: 2 guards 7-10 AM,57,0.0
+C: 2 guards 7-10 AM,58,0.0
+C: 2 guards 7-10 AM,59,0.0
+C: 2 guards 7-10 AM,60,0.0
+C: 2 guards 7-10 AM,61,0.0
+C: 2 guards 7-10 AM,62,0.0
+C: 2 guards 7-10 AM,63,0.0
+C: 2 guards 7-10 AM,64,0.0
+C: 2 guards 7-10 AM,65,0.0
+C: 2 guards 7-10 AM,66,0.0
+C: 2 guards 7-10 AM,67,0.0
+C: 2 guards 7-10 AM,68,0.0
+C: 2 guards 7-10 AM,69,0.0
+C: 2 guards 7-10 AM,70,0.0
+C: 2 guards 7-10 AM,71,0.0
+C: 2 guards 7-10 AM,72,0.0
+C: 2 guards 7-10 AM,73,0.0
+C: 2 guards 7-10 AM,74,0.0
+C: 2 guards 7-10 AM,75,0.0
+C: 2 guards 7-10 AM,76,0.0
+C: 2 guards 7-10 AM,77,0.0
+C: 2 guards 7-10 AM,78,0.0
+C: 2 guards 7-10 AM,79,0.0
+C: 2 guards 7-10 AM,80,0.0
+C: 2 guards 7-10 AM,81,0.0
+C: 2 guards 7-10 AM,82,0.0
+C: 2 guards 7-10 AM,83,0.0
+C: 2 guards 7-10 AM,84,0.0
+C: 2 guards 7-10 AM,85,0.0
+C: 2 guards 7-10 AM,86,0.0
+C: 2 guards 7-10 AM,87,0.0
+C: 2 guards 7-10 AM,88,0.0
+C: 2 guards 7-10 AM,89,0.0
+C: 2 guards 7-10 AM,90,0.0
+C: 2 guards 7-10 AM,91,0.0
+C: 2 guards 7-10 AM,92,0.0
+C: 2 guards 7-10 AM,93,0.0
+C: 2 guards 7-10 AM,94,0.0
+C: 2 guards 7-10 AM,95,0.0
+C: 2 guards 7-10 AM,96,0.0
+C: 2 guards 7-10 AM,97,0.0
+C: 2 guards 7-10 AM,98,0.0
+C: 2 guards 7-10 AM,99,0.0
+C: 2 guards 7-10 AM,100,0.0
+C: 2 guards 7-10 AM,101,0.0
+C: 2 guards 7-10 AM,102,0.0
+C: 2 guards 7-10 AM,103,0.0
+C: 2 guards 7-10 AM,104,0.0
+C: 2 guards 7-10 AM,105,0.0
+C: 2 guards 7-10 AM,106,0.0
+C: 2 guards 7-10 AM,107,0.0
+C: 2 guards 7-10 AM,108,0.0
+C: 2 guards 7-10 AM,109,0.0
+C: 2 guards 7-10 AM,110,0.0
+C: 2 guards 7-10 AM,111,0.0
+C: 2 guards 7-10 AM,112,0.0
+C: 2 guards 7-10 AM,113,0.0
+C: 2 guards 7-10 AM,114,0.0
+C: 2 guards 7-10 AM,115,0.0
+C: 2 guards 7-10 AM,116,0.0
+C: 2 guards 7-10 AM,117,0.0
+C: 2 guards 7-10 AM,118,0.0
+C: 2 guards 7-10 AM,119,0.0
+C: 2 guards 7-10 AM,120,0.0
+C: 2 guards 7-10 AM,121,0.0
+C: 2 guards 7-10 AM,122,0.0
+C: 2 guards 7-10 AM,123,0.0
+C: 2 guards 7-10 AM,124,0.03333333333333333
+C: 2 guards 7-10 AM,125,0.0
+C: 2 guards 7-10 AM,126,0.0
+C: 2 guards 7-10 AM,127,0.0
+C: 2 guards 7-10 AM,128,0.0
+C: 2 guards 7-10 AM,129,0.0
+C: 2 guards 7-10 AM,130,0.0
+C: 2 guards 7-10 AM,131,0.0
+C: 2 guards 7-10 AM,132,0.0
+C: 2 guards 7-10 AM,133,0.0
+C: 2 guards 7-10 AM,134,0.0
+C: 2 guards 7-10 AM,135,0.0
+C: 2 guards 7-10 AM,136,0.0
+C: 2 guards 7-10 AM,137,0.0
+C: 2 guards 7-10 AM,138,0.0
+C: 2 guards 7-10 AM,139,0.0
+C: 2 guards 7-10 AM,140,0.0
+C: 2 guards 7-10 AM,141,0.0
+C: 2 guards 7-10 AM,142,0.0
+C: 2 guards 7-10 AM,143,0.0
+C: 2 guards 7-10 AM,144,0.0
+C: 2 guards 7-10 AM,145,0.0
+C: 2 guards 7-10 AM,146,0.0
+C: 2 guards 7-10 AM,147,0.0
+C: 2 guards 7-10 AM,148,0.0
+C: 2 guards 7-10 AM,149,0.0
+C: 2 guards 7-10 AM,150,0.0
+C: 2 guards 7-10 AM,151,0.0
+C: 2 guards 7-10 AM,152,0.03333333333333333
+C: 2 guards 7-10 AM,153,0.0
+C: 2 guards 7-10 AM,154,0.0
+C: 2 guards 7-10 AM,155,0.0
+C: 2 guards 7-10 AM,156,0.0
+C: 2 guards 7-10 AM,157,0.0
+C: 2 guards 7-10 AM,158,0.0
+C: 2 guards 7-10 AM,159,0.0
+C: 2 guards 7-10 AM,160,0.0
+C: 2 guards 7-10 AM,161,0.0
+C: 2 guards 7-10 AM,162,0.0
+C: 2 guards 7-10 AM,163,0.0
+C: 2 guards 7-10 AM,164,0.0
+C: 2 guards 7-10 AM,165,0.0
+C: 2 guards 7-10 AM,166,0.0
+C: 2 guards 7-10 AM,167,0.0
+C: 2 guards 7-10 AM,168,0.0
+C: 2 guards 7-10 AM,169,0.0
+C: 2 guards 7-10 AM,170,0.0
+C: 2 guards 7-10 AM,171,0.0
+C: 2 guards 7-10 AM,172,0.0
+C: 2 guards 7-10 AM,173,0.0
+C: 2 guards 7-10 AM,174,0.0
+C: 2 guards 7-10 AM,175,0.0
+C: 2 guards 7-10 AM,176,0.0
+C: 2 guards 7-10 AM,177,0.0
+C: 2 guards 7-10 AM,178,0.0
+C: 2 guards 7-10 AM,179,0.0
+C: 2 guards 7-10 AM,180,0.0
+C: 2 guards 7-10 AM,181,0.0
+C: 2 guards 7-10 AM,182,0.0
+C: 2 guards 7-10 AM,183,0.0
+C: 2 guards 7-10 AM,184,0.0
+C: 2 guards 7-10 AM,185,0.0
+C: 2 guards 7-10 AM,186,0.0
+C: 2 guards 7-10 AM,187,0.0
+C: 2 guards 7-10 AM,188,0.0
+C: 2 guards 7-10 AM,189,0.0
+C: 2 guards 7-10 AM,190,0.0
+C: 2 guards 7-10 AM,191,0.0
+C: 2 guards 7-10 AM,192,0.03333333333333333
+C: 2 guards 7-10 AM,193,0.0
+C: 2 guards 7-10 AM,194,0.0
+C: 2 guards 7-10 AM,195,0.0
+C: 2 guards 7-10 AM,196,0.03333333333333333
+C: 2 guards 7-10 AM,197,0.0
+C: 2 guards 7-10 AM,198,0.06666666666666667
+C: 2 guards 7-10 AM,199,0.0
+C: 2 guards 7-10 AM,200,0.0
+C: 2 guards 7-10 AM,201,0.0
+C: 2 guards 7-10 AM,202,0.0
+C: 2 guards 7-10 AM,203,0.0
+C: 2 guards 7-10 AM,204,0.0
+C: 2 guards 7-10 AM,205,0.0
+C: 2 guards 7-10 AM,206,0.03333333333333333
+C: 2 guards 7-10 AM,207,0.0
+C: 2 guards 7-10 AM,208,0.0
+C: 2 guards 7-10 AM,209,0.0
+C: 2 guards 7-10 AM,210,0.0
+C: 2 guards 7-10 AM,211,0.03333333333333333
+C: 2 guards 7-10 AM,212,0.0
+C: 2 guards 7-10 AM,213,0.03333333333333333
+C: 2 guards 7-10 AM,214,0.0
+C: 2 guards 7-10 AM,215,0.03333333333333333
+C: 2 guards 7-10 AM,216,0.0
+C: 2 guards 7-10 AM,217,0.0
+C: 2 guards 7-10 AM,218,0.06666666666666667
+C: 2 guards 7-10 AM,219,0.0
+C: 2 guards 7-10 AM,220,0.0
+C: 2 guards 7-10 AM,221,0.0
+C: 2 guards 7-10 AM,222,0.0
+C: 2 guards 7-10 AM,223,0.0
+C: 2 guards 7-10 AM,224,0.0
+C: 2 guards 7-10 AM,225,0.0
+C: 2 guards 7-10 AM,226,0.0
+C: 2 guards 7-10 AM,227,0.0
+C: 2 guards 7-10 AM,228,0.0
+C: 2 guards 7-10 AM,229,0.0
+C: 2 guards 7-10 AM,230,0.03333333333333333
+C: 2 guards 7-10 AM,231,0.03333333333333333
+C: 2 guards 7-10 AM,232,0.0
+C: 2 guards 7-10 AM,233,0.0
+C: 2 guards 7-10 AM,234,0.0
+C: 2 guards 7-10 AM,235,0.0
+C: 2 guards 7-10 AM,236,0.0
+C: 2 guards 7-10 AM,237,0.0
+C: 2 guards 7-10 AM,238,0.0
+C: 2 guards 7-10 AM,239,0.0
+C: 2 guards 7-10 AM,240,0.0

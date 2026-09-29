@@ -1,0 +1,11 @@
+parameter,value,unit,basis
+sticker_mean_sec,8.0,seconds,"ESTIMATED. Car with a parking sticker: slows or stops, guard checks sticker, car proceeds. Group observation: all entering cars must have stickers."
+sticker_sd_sec,4.0,seconds,"ESTIMATED. Lognormal distribution (positive, right-skewed)."
+nonsticker_share,0.05,fraction of arrivals,ESTIMATED. Cars without a sticker are refused entry (group observation) but still occupy the guard and lane while being turned away.
+nonsticker_mean_sec,45.0,seconds,ESTIMATED. Time to explain refusal and for the car to clear the lane. Lognormal.
+nonsticker_sd_sec,15.0,seconds,ESTIMATED.
+K_waiting_spaces,8.0,vehicles,ESTIMATED. Waiting vehicles that fit on the approach before the line reaches Pablo Ocampo Sr. Ext. Replace with a Google Maps measurement.
+guard2_close_B_min,120.0,minutes after 07:00,Configuration B: second guard 07:00-09:00.
+guard2_close_C_min,180.0,minutes after 07:00,Configuration C: second guard 07:00-10:00.
+replications,30.0,runs per scenario,"Proposal, Part 6."
+base_seed,20260914.0,integer,Recorded seed; every replication's random streams derive from this.
